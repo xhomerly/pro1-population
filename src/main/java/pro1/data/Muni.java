@@ -1,6 +1,6 @@
 package pro1.data;
 
-public class Muni
+public class    Muni
 {
     public Muni(String name, String code, String districtName, String districtCode, int population, int menPopulation, int womenPopulation, double age, double menAge, double womenAge) {
         this.name = name;
